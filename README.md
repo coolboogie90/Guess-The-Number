@@ -1,4 +1,4 @@
 # Guess-The-Number
 A small JavaScript game using prompts. 
 
-Link: 
+Link: https://coolboogie90.github.io/Guess-The-Number/
